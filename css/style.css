@@ -1,0 +1,109 @@
+body {
+    background: #fff;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.project h1 {
+    text-align: center;
+    color: #dd5678;
+
+}
+
+.container {
+    width: 80%;
+    margin: 1% auto;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.2),
+        15px 15px 15px rgba(0, 0, 0, 0.2),
+       inset -10px -10px 10px rgba(255, 255, 255, 0.2),
+       inset 15px 15px 15px rgba(0, 0, 0, 0.2);
+    background: #ededed;
+    border-radius: 15px;
+    padding: 50px;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    background: #ededed;
+    padding: 20px 0;
+    border: 5px solid #999;
+    color: orangered;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.2),
+        15px 15px 15px rgba(0, 0, 0, 0.2),
+        inset -10px -10px 10px rgba(255, 255, 255, 0.2),
+        inset 15px 15px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.head__title {
+    text-align: center;
+    font-size: 30px;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.2),
+        15px 15px 15px rgba(0, 0, 0, 0.2),
+        inset -10px -10px 10px rgba(255, 255, 255, 0.2),
+        inset 15px 15px 15px rgba(0, 0, 0, 0.2);
+    color: #555;
+    border-radius: 15px;
+    padding: 20px;
+
+
+}
+
+.subject__of__class,
+.sir {
+    text-align: center;
+    display: block;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.2),
+        15px 15px 15px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-transform: uppercase;
+    color: #555;
+    border-radius: 5px;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background: #666;
+    margin: 0 auto;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+    border: 5px solid #ddd;
+}
+
+.box h2 {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+.info {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.border__box,
+.padding__box,
+.margin__box {
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+}
+
+.padding__box {
+    padding: 20px;
+}
+
+.margin__box {
+    margin: 30px;
+}
+
+.batch
+{
+    text-align: center;
+    font-size: 30px;
+    color: #5658dd;
+}
